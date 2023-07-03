@@ -38,4 +38,4 @@ else if(hrs>=17 && hrs<=20){
 else{
     greet = 'Good Night';
 }
-document.getElementById('time').innerHTML ='<b>' + greet + '</b>';
+document.getElementById('time').innerHTML = greet;

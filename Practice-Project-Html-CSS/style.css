@@ -88,6 +88,13 @@ nav li:hover {
   display: grid;
   place-items: center;
 }
+.hero_image img{
+
+  border-radius: 20px;
+  justify-content: space-around;
+  align-items: center;
+
+}
 
 #hero h1 {
   font-size: 3rem;

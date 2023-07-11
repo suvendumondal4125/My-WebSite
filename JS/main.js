@@ -32,7 +32,7 @@ else if(hrs == 12){
 else if(hrs>=12 && hrs<=17){
     greet = 'Good Afternoon';
 }
-else if(hrs>=17 && hrs<=19){
+else if(hrs>=17 && hrs<20){
     greet = 'Good Evening';
 }
 else{
